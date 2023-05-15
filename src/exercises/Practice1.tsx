@@ -19,5 +19,4 @@ interface Property {
   SubmitProperty(myProperty);
 
 
-  export default SubmitProperty
   

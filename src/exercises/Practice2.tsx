@@ -18,5 +18,4 @@ interface Person {
   GetPersonInfo(person1); 
   GetPersonInfo(person2);
 
-  export default GetPersonInfo
   
